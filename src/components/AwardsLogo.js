@@ -31,7 +31,7 @@ export default function AwardsLogo() {
                 "hayakawa-logo.webp",
                 "newsinsights-logo.webp",
                 "synthesisworld-logo.webp",
-                "usalawauthorit-logo.webp",
+                "fbuddy-logo.webp",
               ].map((img, i) => (
                 <SwiperSlide key={i}>
                   <img
